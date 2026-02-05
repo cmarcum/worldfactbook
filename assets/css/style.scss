@@ -1,0 +1,31 @@
+---
+---
+@import "{{ site.theme }}";
+
+// Based on the repository image: https://github.com/user-attachments/assets/bea6d39a-577b-4eef-85b4-eab8b6297b62
+$brand-color: #00bcd4; // Teal/Cyan from the data lines
+$dark-bg: #0d1117;    // Deep navy/black from the image background
+$text-light: #c9d1d9;
+
+body {
+  background-color: $dark-bg;
+  color: $text-light;
+}
+
+a {
+  color: $brand-color;
+}
+
+header {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.btn {
+  background-color: transparent;
+  border: 1px solid $brand-color;
+  color: $brand-color;
+  &:hover {
+    background-color: $brand-color;
+    color: $dark-bg;
+  }
+}
