@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-
-<div style="max-width: 800px; margin: 0 auto;">
   
 <img src="https://github.com/user-attachments/assets/bea6d39a-577b-4eef-85b4-eab8b6297b62"  alt="World Factbook is GONE Header" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
 
@@ -40,5 +38,3 @@ If the government will not host this incredible resource, the community must ste
 
 If your foundation or organization has the funding and capacity to lead this project, please [reach out here](mailto:worldfactbook.us@proton.me).
 
-
-</div>
