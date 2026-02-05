@@ -39,4 +39,6 @@ If the government will not host this incredible resource, the community must ste
 * **Commitment** To that end, this domain will be handed over to anyone interested in funding, developing, and maintaining an open-source full-stack restoration of the World Factbook. 
 
 If your foundation or organization has the funding and capacity to lead this project, please [reach out here](mailto:worldfactbook.us@proton.me).
+
+
 </div>
