@@ -1,5 +1,5 @@
-title: The World Factbook is GONE
-description: A call to restore the World Factbook.
+#title: The World Factbook is GONE
+#description: A call to restore the World Factbook.
 footer: "This work is dedicated to the public domain. CC0 1.0 Universal."
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
