@@ -1,0 +1,5 @@
+title: The World Factbook is GONE
+description: A call to restore the World Factbook.
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
