@@ -1,6 +1,15 @@
 ---
 layout: default
 ---
+
+<style>
+  .page-header {
+    display: none;
+  }
+  .main-content {
+    padding-top: 2rem;
+  }
+</style>
   
 <img src="https://github.com/user-attachments/assets/bea6d39a-577b-4eef-85b4-eab8b6297b62"  alt="World Factbook is GONE Header" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
 
