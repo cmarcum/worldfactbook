@@ -28,6 +28,8 @@ The World Factbook meant a lot to the public. If it meant something to you, whet
 
 ---
 ### 3. A Call for Support
-If the government will not host this incredible resource, the community must step-up to restore it. Data preservation initiatives that seek to save public resources like the World need support to be sustainable. To that end, this domain will be handed over to anyone interested in funding, developing, and maintaining an open-source full-stack restoration of the World Factbook. 
+If the government will not host this incredible resource, the community must step-up to restore it. Data preservation initiatives that seek to save public resources like the World Factbook need support to be sustainable. Consider donating to the [DataRescueProject🛟](https://www.datarescueproject.org/), the [Internet Archive](https://archive.org/), or another such initiative. 
+
+* **Commitment** To that end, this domain will be handed over to anyone interested in funding, developing, and maintaining an open-source full-stack restoration of the World Factbook. 
 
 If your foundation or organization has the funding and capacity to lead this project, please [reach out here](mailto:worldfactbook.us@proton.me).
