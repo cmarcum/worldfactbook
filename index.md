@@ -37,7 +37,11 @@ The Administration needs to hear that the World Factbook is a critical tool for 
 The World Factbook meant a lot to the public. If it meant something to you, whether you used it in grade school for a report or referenced it in your work, you can use your story to raise awareness about this takedown and spread the word through your networks.
 
 * **Share this page:** Use the hashtag **#RestoreTheFactbook** on social media to spread the word.
-* **Archive Awareness:** Encourage others to use [The Wayback Machine](https://archive.org) or visit Simon Willison's [archive of the 2020 version](https://simonw.github.io/cia-world-factbook-2020) to access historical data.
+* **Archive Awareness:** Encourage others to use the following resources to access historical data in the meantime: 
+  - The Internet Archive's [WaybackMachine Collection](https://web.archive.org/collection-search/cia-world-factbook)
+  - Simon Willison's [archive of the 2020 version](https://simonw.github.io/cia-world-factbook-2020)
+  - Milan Milkovich's [archive of the 1990 - 2020 data](https://cia-factbook-archive.fly.dev)
+  - The Wikisource's [MediaWiki community-based effort](https://en.wikisource.org/wiki/The_World_Factbook)
 
 ---
 ### 3. A Call for Support
