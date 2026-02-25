@@ -40,7 +40,7 @@ The World Factbook meant a lot to the public. If it meant something to you, whet
 * **Archive Awareness:** Encourage others to use the following resources to access historical data in the meantime: 
   - The Internet Archive's [WaybackMachine Collection](https://web.archive.org/collection-search/cia-world-factbook)
   - Simon Willison's [archive of the 2020 version](https://simonw.github.io/cia-world-factbook-2020)
-  - Milan Milkovich's [archive of the 1990 - 2020 data](https://cia-factbook-archive.fly.dev)
+  - Milan Milkovich's [archive of the 1990 - 2025 data](https://cia-factbook-archive.fly.dev)
   - The Wikisource's [MediaWiki community-based effort](https://en.wikisource.org/wiki/The_World_Factbook)
 
 ---
