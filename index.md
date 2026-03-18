@@ -23,7 +23,7 @@ The sudden removal of the [World Factbook on February 4th, 2026](https://www.cia
 The Administration needs to hear that the World Factbook is a critical tool for students, researchers, and policymakers alike. Demand a transparent explanation for its removal and a commitment to its restoration.
 
 * **Write to Congress and the current Administration**.
-* **The Message:** "The World Factbook is an essential public good. Its removal hinders global transparency and education. The Administration should provide a full explanation for its takedown and commit to the immediate restoration of public access its data."
+* **The Message:** "The World Factbook is an essential public good. Its removal hinders global transparency and education. The Administration should provide a full explanation for its takedown and commit to the immediate restoration of public access to its data."
 
 * [Find and contact your Representative](https://www.house.gov/representatives/find-your-representative)
 * [Contact your Senator](https://www.senate.gov/senators/quo_list_menu.htm)
