@@ -43,6 +43,8 @@ The World Factbook meant a lot to the public. If it meant something to you, whet
   - Milan Milkovich's [archive of the 1990 - 2025 data](https://cia-factbook-archive.fly.dev)
   - The Wikisource's [MediaWiki community-based effort](https://en.wikisource.org/wiki/The_World_Factbook)
   - GitHub user appecta's [minimalist portal](https://appecta.github.io/cia-worldfactbook/)
+  - ISKME's archive of the [2025 version](https://digitalpublicgoodslibrary.org/ark/collection/49)
+
 
 ---
 ### 3. A Call for Support
